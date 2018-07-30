@@ -1,23 +1,23 @@
-# Initial page
+---
+description: ページのディスクリプション
+---
 
-## Getting Super Powers
+# ページのタイトル
 
-Becoming a super hero is a fairly straight forward process:
+## お試しページです
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
+{% code-tabs %}
+{% code-tabs-item title="test.js" %}
+```javascript
+navigator.credential.get(options);
 
 ```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+![WebAuthn](.gitbook/assets/2018-07-30_14h34_39.png)
+
+### Hello
 
 
 
